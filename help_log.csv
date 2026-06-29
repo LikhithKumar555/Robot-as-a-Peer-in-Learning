@@ -1,0 +1,6 @@
+participant_id,condition,question_index,question_text,hint_given,timestamp
+6048,peer,0,What is the capital of Australia?,"Hmm, I think ""Perth"" might not be right. What do you think?",2026-06-29T18:19:58.521395
+5290,peer,0,What is the capital of Australia?,"I think ""D. Perth"" might not be right. Try the others.",2026-06-29T18:25:23.617688
+5290,peer,0,What is the capital of Australia?,"I think ""A. Sydney"" might not be right. Try the others.",2026-06-29T18:25:28.250292
+5290,peer,0,What is the capital of Australia?,"I think ""B. Melbourne"" might not be right. Try the others.",2026-06-29T18:25:32.608497
+5290,peer,2,How many bones are in the adult human body?,"I think ""D. 208"" might not be right. Try the others.",2026-06-29T18:26:24.572441
