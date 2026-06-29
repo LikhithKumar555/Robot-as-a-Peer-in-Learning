@@ -6,7 +6,7 @@
 
 A web-based experiment investigating how robot roles (peer vs. tutor) affect help-seeking behaviour and comfort in learning tasks.
 
-**Live Demo:** (https://antonym-perfectly-favoring.ngrok-free.dev/)(https://robot-quiz.onrender.com) *(if deployed)*
+**Live Demo:** (https://antonym-perfectly-favoring.ngrok-free.dev/) *(if deployed)*
 
 ---
 
