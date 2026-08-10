@@ -4,7 +4,7 @@ A simple web-based quiz to test if a robot that acts like a **study buddy** chan
 
 ---
 
-## 🎯 What's This About?
+##  What's This About?
 
 We built a quiz where a robot helps you answer 10 football questions.  
 The robot can either be:
@@ -25,16 +25,16 @@ We wanted to see:
 
 | Hypothesis | Result | p-value |
 |------------|--------|---------|
-| Peer asks for help more | ❌ Not significant | p = 0.105 |
-| Peer feels more comfortable | ✅ **Significant** | p < 0.001 |
-| Peer scores higher | ✅ **Significant** | p = 0.006 |
+| Peer asks for help more |  Not significant | p = 0.105 |
+| Peer feels more comfortable |  **Significant** | p < 0.001 |
+| Peer scores higher |  **Significant** | p = 0.006 |
 
 **But there's a catch**: The peer robot was **too helpful**.  
 It removed wrong options instead of just giving clues. So people could use the help button repeatedly to **eliminate all wrong answers** and get the right one without actually knowing it. This is why peer participants scored higher – not because they learned more, but because the help system made the quiz easier.
 
 ---
 
-## 🛠️ How It Works
+##  How It Works
 
 - **Backend**: Python + Flask
 - **Frontend**: HTML + CSS + JavaScript
@@ -43,7 +43,7 @@ It removed wrong options instead of just giving clues. So people could use the h
 
 ---
 
-## 📁 Files
+##  Files
 
 | File | What it does |
 |------|--------------|
@@ -55,7 +55,7 @@ It removed wrong options instead of just giving clues. So people could use the h
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Install Python** (if you don't have it)
 
@@ -82,7 +82,7 @@ It removed wrong options instead of just giving clues. So people could use the h
 
 ---
 
-## 📊 Run the Analysis
+##  Run the Analysis
 
 After collecting data:
 
@@ -98,7 +98,7 @@ This gives you:
 
 ---
 
-## ⚠️ What We Learned (The Hard Way)
+##  What We Learned (The Hard Way)
 
 ### The Big Problem
 
@@ -120,7 +120,7 @@ people felt comfortable because they were doing well, not necessarily because th
 
 ---
 
-## 💡 Next Time
+##  Next Time
 
 - Make both robots give the **same kind of help** (both clues, or both remove options)
 - Limit help requests (max 1 or 2 per question)
@@ -129,7 +129,7 @@ people felt comfortable because they were doing well, not necessarily because th
 
 ---
 
-## 📝 Credits
+##  Credits
 
 **Author**: Likhith Kumar Shivakumar  
 **Course**: User Studies in Intelligent Systems  
