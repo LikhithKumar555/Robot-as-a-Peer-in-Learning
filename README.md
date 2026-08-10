@@ -21,7 +21,7 @@ We wanted to see:
 
 ---
 
-## 📊 What We Found
+##  What We Found
 
 | Hypothesis | Result | p-value |
 |------------|--------|---------|
@@ -138,6 +138,6 @@ people felt comfortable because they were doing well, not necessarily because th
 
 ---
 
-## 📚 Reference
+##  Reference
 
 Belpaeme, T., Kennedy, J., Ramachandran, A., Scassellati, B., & Tanaka, F. (2018). Social robots for education: A review. *Science Robotics, 3*(21), eaat5954.
